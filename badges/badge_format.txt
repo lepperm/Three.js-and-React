@@ -1,0 +1,5 @@
+For the badge image url, use:
+https://img.shields.io/endpoint?url=[BADGE RAW JSON URL]
+
+As an example:
+https%3A%2F%2Fgitlab.com%2Fmaxlepper%2Fthree.js-and-react%2F-%2Fraw%2Fmaster%2Fbadges%2FdevStatus.json
