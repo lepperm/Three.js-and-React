@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "label": "View Status",
   "message": "Stable",
-  "color": "green",
+  "color": "brightgreen",
   "style": "flat"
 }
