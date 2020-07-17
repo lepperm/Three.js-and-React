@@ -1,6 +1,6 @@
 {
   "devStatus": "to be refactored",
-  "devColor": "green",
+  "devColor": "yellow",
   "viewStatus": "stable",
-  "viewColor": "brightgreen"
+  "viewColor": "green"
 }
